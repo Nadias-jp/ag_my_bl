@@ -1,24 +1,20 @@
-<<<<<<< HEAD
+!------------------------------
+! DNS exceptions
+!------------------------------
+@@||juggly.cn^
+@@||jpush.cn^
+!------------------------------
 ! Country filter
+!------------------------------
 ://*.cn^
 ://*.kr^
+!------------------------------
 ! Black Sites
+!------------------------------
 ||appollo-plus.com^
 ://*.exosrv.com^
 ||appollo.jp^
 ||appollo-plus.com^
 ://*.appsflyer.com^
-! DNS exceptions
-@@||juggly.cn^
-@@||jpush.cn^
-=======
-*.cn
-*.kr
-@@||juggly.cn^|
-@@jpush.cn
-appollo-plus.com
-*.exosrv.com
-appollo.jp
-appollo-plus.com
-appsflyer.com
->>>>>>> 1919b29de651b5662597109bbcbc46b50ec64f2f
+
+
