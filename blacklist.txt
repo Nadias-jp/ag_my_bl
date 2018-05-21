@@ -12,6 +12,7 @@
 ||appollo.jp^
 ||appollo-plus.com^
 ||*.appsflyer.com^
+||external.xx.fbcdn.net^
 !------------------------------
 ! For test
 !------------------------------
