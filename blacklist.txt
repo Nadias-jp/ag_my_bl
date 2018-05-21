@@ -1,1 +1,4 @@
 ://*.exosrv.com^
+||appllo.jp^
+||appllo-plus.com^
+
