@@ -1,3 +1,6 @@
+*.cn
+*.kr
+@@juggly.cn
 appollo-plus.com
 *.exosrv.com
 appollo.jp
