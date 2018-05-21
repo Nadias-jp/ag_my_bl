@@ -16,5 +16,9 @@
 ||appollo.jp^
 ||appollo-plus.com^
 ||*.appsflyer.com^
+!------------------------------
+! For test
+!------------------------------
+||www.yahoo.co.jp^
 
 
