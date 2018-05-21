@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 appollo-plus.com
+=======
+*.exosrv.com
+appollo.jp
+appollo-plus.com
+appsflyer.com
+gum.dlbooks.to
+>>>>>>> 9d728d08470d80cdf0e0d3fa3d14947885093cfd
