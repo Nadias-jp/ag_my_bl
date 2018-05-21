@@ -5,7 +5,7 @@
 ||*.kr^
 ! You must add  jpush.cn juggly.cn etc to Whitelist
 !------------------------------
-! Black Sites
+! Block Sites
 !------------------------------
 ||appollo-plus.com^
 ||*exosrv.com^
