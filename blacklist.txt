@@ -1,8 +1,8 @@
 !------------------------------
 ! DNS exceptions
 !------------------------------
-@@||juggly.cn^
-@@||jpush.cn^
+~juggly.cn^
+~jpush.cn^
 !------------------------------
 ! Country filter
 !------------------------------
@@ -12,13 +12,13 @@
 ! Black Sites
 !------------------------------
 ||appollo-plus.com^
-||*.exosrv.com^
+||*exosrv.com^
 ||appollo.jp^
 ||appollo-plus.com^
 ||*.appsflyer.com^
 !------------------------------
 ! For test
 !------------------------------
-||www.yahoo.co.jp^
+
 
 
