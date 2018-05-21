@@ -1,6 +1,6 @@
 *.cn
 *.kr
-@@juggly.cn
+@@||juggly.cn^|
 @@jpush.cn
 appollo-plus.com
 *.exosrv.com
