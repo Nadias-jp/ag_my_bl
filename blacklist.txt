@@ -1,1 +1,1 @@
-ads.exosrv.com
+=*.exosrv.com^
