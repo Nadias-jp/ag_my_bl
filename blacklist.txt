@@ -1,1 +1,1 @@
-=*.exosrv.com^
+://*.exosrv.com^
