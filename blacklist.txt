@@ -1,4 +1,4 @@
-://*.exosrv.com^
-||appollo.jp^
-||appollo-plus.com^
+*.exosrv.com
+appollo.jp
+appollo-plus.com
 
