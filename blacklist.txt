@@ -5,14 +5,24 @@
 ||*.kr^
 ! You must add  jpush.cn juggly.cn etc to Whitelist
 !------------------------------
-! Block Sites
+! Blacklist
 !------------------------------
 ||appollo-plus.com^
-||*exosrv.com^
+||exosrv.com^
 ||appollo.jp^
-||appollo-plus.com^
-||*.appsflyer.com^
-||external.xx.fbcdn.net^
+||adjust.com^
+||rtoaster.jp^
+||c-ovn.jp^
+||impact-ad.jp^
+||cxense.com^
+||interactive-circle.jp^
+||popin.cc^
+!------------------------------
+! Whitelist Sites
+!------------------------------
+@@||juggly.cn^
+@@||jpush.cn^
+@@||shopping.yahooapis.jp^
 !------------------------------
 ! For test
 !------------------------------
