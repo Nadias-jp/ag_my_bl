@@ -8,16 +8,18 @@
 !------------------------------
 ! Blacklist
 !------------------------------
-||appollo-plus.com^
-||exosrv.com^
-||appollo.jp^
-||adjust.com^
-||rtoaster.jp^
-||c-ovn.jp^
-||impact-ad.jp^
-||cxense.com^
-||interactive-circle.jp^
-||popin.cc^
+||bugsnag.com
+||googleadservices.com
+||doubleclick.net
+||microad.jp
+||geoedge.be
+||popincdn.com
+||logly.co.jp
+||outbrainimg.com
+||scorecardresearch.com
+||opin.cc
+||doubleclick.net
+||cnobi.jp
 !------------------------------
 ! Whitelist Sites
 !------------------------------
