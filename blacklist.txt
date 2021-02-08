@@ -20,6 +20,7 @@
 ||opin.cc
 ||doubleclick.net
 ||cnobi.jp
+||feeds.feedbunner.com
 !------------------------------
 ! Whitelist Sites
 !------------------------------
