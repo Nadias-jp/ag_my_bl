@@ -4,7 +4,6 @@
 ||/.*.cn/
 ||/.*.kr/
 ||/.*.id/
-! You must add  jpush.cn juggly.cn etc to Whitelist
 !------------------------------
 ! Blacklist
 !------------------------------
