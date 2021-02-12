@@ -20,7 +20,7 @@
 ||opin.cc
 ||doubleclick.net
 ||cnobi.jp
-||feeds.feedburner.com
+||boost-next.co.jp
 !------------------------------
 ! Whitelist Sites
 !------------------------------
@@ -30,6 +30,6 @@
 !------------------------------
 ! For test
 !------------------------------
-!これが見えればCron 
+
 
 
