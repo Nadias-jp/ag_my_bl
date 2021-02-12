@@ -33,7 +33,7 @@
 !------------------------------
 ! For test
 !------------------------------
-/^r.*\.sn-.*\.googlevideo\.com$/
-@@/^r.*---sn-.*\.googlevideo\.com$/
+@@/^r.*\.sn-.*\.googlevideo\.com$/
+/^r.*---sn-.*\.googlevideo\.com$/
 
 
