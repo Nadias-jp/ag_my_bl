@@ -21,6 +21,7 @@
 ||cnobi.jp
 ||boost-next.co.jp
 ||pangle.io
+||adjust.com
 !------------------------------
 ! Whitelist Sites
 !------------------------------
