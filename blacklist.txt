@@ -20,6 +20,7 @@
 ||doubleclick.net
 ||cnobi.jp
 ||boost-next.co.jp
+||pangle.io
 !------------------------------
 ! Whitelist Sites
 !------------------------------
