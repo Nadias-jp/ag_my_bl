@@ -62,6 +62,9 @@
 @@||juggly.cn^
 @@||jpush.cn^
 @@||shopping.yahooapis.jp^
+@@||res.cloudinary.com^$important
+!@@||cdp.cloud.unity3d.com^
+@@||get-bx.g.aaplimg.com^
 !------------------------------
 ! 208blocker
 !------------------------------
