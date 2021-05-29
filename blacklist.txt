@@ -62,13 +62,17 @@
 @@||juggly.cn^
 @@||jpush.cn^
 @@||shopping.yahooapis.jp^
-@@||res.cloudinary.com^$important
-!@@||cdp.cloud.unity3d.com^
+@@||res.cloudinary.com^
+@@||cdp.cloud.unity3d.com^
 @@||get-bx.g.aaplimg.com^
 !------------------------------
 ! 280blocker
 !------------------------------
 ||www.googleadservices.com^$important
+!------------------------------
+! CLH
+!------------------------------
+||lite-ra.com^
 !------------------------------
 ! For test
 !------------------------------
