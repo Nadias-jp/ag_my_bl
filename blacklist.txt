@@ -57,6 +57,17 @@
 ||pc-api.300624.com^
 ||ad.linksynergy.com^
 !------------------------------
+! Phishing
+!------------------------------
+||vegenmeste.com^
+||andballsteam.live^
+||hundredcometop.live^
+||digibestorder.info^
+||uberbestorder.info^
+||getstar.xyz^$
+||miatta-oh.xyz^
+||nextbestorder.info^
+!------------------------------
 ! Whitelist Sites
 !------------------------------
 @@||juggly.cn^
