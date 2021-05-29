@@ -72,7 +72,14 @@
 !------------------------------
 ! CLH
 !------------------------------
+!Cyzo
 ||lite-ra.com^
+||cyzo.com^
+||tocana.jp^
+||biz-journal.jp^
+||cyzowoman.com^
+||wezz-y.com^
+||www.excite.co.jp^ !lite-raをニュースとして配布
 !------------------------------
 ! For test
 !------------------------------
