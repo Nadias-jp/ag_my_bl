@@ -26,13 +26,11 @@
 ||cnobi.jp^
 ||coppersurfer.tk^
 ||doubleclick.net^
-||doubleclick.net^
 ||geoadnxs.com^
 ||geoedge.be^
 ||ibytedtos.com^
 ||imgvc.com^
 ||impact-ad.jp^
-||karte.io^
 ||karte.io^
 ||leechers-paradise.org^
 ||logly.co.jp^
