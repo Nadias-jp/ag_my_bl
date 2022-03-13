@@ -63,7 +63,6 @@
 ||rm-hk.aarki.net^
 ||scorecardresearch.com^
 ||static.api.virtusize.jp^
-||thumbnail.image.rakuten.co.jp^
 ||tiktok.com^
 ||uncovertruth.co.jp^
 ||uni-corn.net^
@@ -88,6 +87,7 @@
 ||nextbestorder.info^
 ||uberbestorder.info^
 ||vegenmeste.com^
+||caipiaochaojidayingjia.com^
 !------------------------------
 ! Whitelist Sites
 !------------------------------
@@ -97,6 +97,7 @@
 @@||juggly.cn^
 @@||res.cloudinary.com^
 @@||shopping.yahooapis.jp^
+@@||thumbnail.image.rakuten.co.jp^
 @@||d.line-scdn.net
 @@||img.dinos.co.jp
 !------------------------------
