@@ -98,8 +98,8 @@
 @@||res.cloudinary.com^
 @@||shopping.yahooapis.jp^
 @@||thumbnail.image.rakuten.co.jp^
-@@||d.line-scdn.net
-@@||img.dinos.co.jp
+@@||d.line-scdn.net^
+@@||img.dinos.co.jp^
 !------------------------------
 ! 280blocker
 !------------------------------
