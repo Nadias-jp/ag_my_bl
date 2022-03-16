@@ -91,6 +91,7 @@
 ||uberbestorder.info^
 ||vegenmeste.com^
 ||caipiaochaojidayingjia.com^
+||aeonmemberlife.cyou^
 !------------------------------
 ! Whitelist Sites
 !------------------------------
