@@ -40,6 +40,7 @@
 ||dc-tag.jp^
 ||doubleclick.net^
 ||e-planning.net^
+||fls-fe.amazon.co.jp^
 ||geoadnxs.com^
 ||geoedge.be^
 ||hs-analytics.net^
@@ -63,6 +64,8 @@
 ||pangleglobal.com^
 ||pc-api.300624.com^
 ||popincdn.com^
+||popin.cc^
+||rlcdn.com^
 ||rm-hk.aarki.net^
 ||scorecardresearch.com^
 ||static.api.virtusize.jp^
@@ -104,6 +107,10 @@
 @@||thumbnail.image.rakuten.co.jp^
 @@||d.line-scdn.net^
 @@||img.dinos.co.jp^
+@@||go.onelink.me^
+@@||www.tm.a.prd.aadg.trafficmanager.net^
+@@||a.privatelink.msidentity.com^$important^
+@@||login.windows.net^
 !------------------------------
 ! 280blocker
 !------------------------------
